@@ -1,4 +1,3 @@
-# Supply-Chain-Data-analysis-using-AI-Agentic-Tools
 # Supply Chain Data Analysis & Automation using AI Agentic Workflow Tools
 
 ## 📌 Project Overview
