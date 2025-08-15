@@ -38,3 +38,31 @@ The aim was to *analyze, automate, and optimize* supply chain processes to impro
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 📷 Screenshots / Workflow Diagrams
+(Add your screenshots or workflow images here)
+
+---
+
+## 📈 How to Run
+1. Install [N8N](https://n8n.io) and set it up locally or on a server.  
+2. Import the provided *workflow JSON* from workflows/.  
+3. Open [Quadratic](https://quadratic.to) and upload the cleaned dataset.  
+4. Run the workflow to see automation and analysis in action.
+
+---
+
+## 📌 Future Enhancements
+- Integrate *real-time data feeds* for live supply chain tracking.  
+- Add *predictive analytics* using AI/ML models.  
+- Expand workflow automation to cover *procurement and logistics*.
+
+---
+
+## 🏢 Industry Relevance
+This project is highly applicable to *food supply chain management*, aligning with roles such as:
+- *Graduate Engineer Trainee – Supply Chain*
+- *Operations Analyst*
+- *Process Improvement Engineer*
