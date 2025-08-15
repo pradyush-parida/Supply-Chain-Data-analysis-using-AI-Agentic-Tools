@@ -42,16 +42,6 @@ The aim was to *analyze, automate, and optimize* supply chain processes to impro
 ---
 ---
 
-## 📷 Screenshots / Workflow Diagrams
-
-*N8N Workflow Automation*
-![N8N Workflow](C:\Users\Prady\Pictures\Screenshot 2025-08-15 161026.png)
-
-*Quadratic Data Analysis*
-![Quadratic Analysis](images/quadratic_analysis.png)
-
-*Supply Chain Dashboard*
-![Supply Chain Dashboard](images/supply_chain_dashboard.png)
 
 ---
 
