@@ -40,9 +40,18 @@ The aim was to *analyze, automate, and optimize* supply chain processes to impro
 ## 📂 Repository Structure
 
 ---
+---
 
 ## 📷 Screenshots / Workflow Diagrams
-(Add your screenshots or workflow images here)
+
+*N8N Workflow Automation*
+![N8N Workflow](images/n8n_workflow.png)
+
+*Quadratic Data Analysis*
+![Quadratic Analysis](images/quadratic_analysis.png)
+
+*Supply Chain Dashboard*
+![Supply Chain Dashboard](images/supply_chain_dashboard.png)
 
 ---
 
@@ -60,6 +69,12 @@ The aim was to *analyze, automate, and optimize* supply chain processes to impro
 - Expand workflow automation to cover *procurement and logistics*.
 
 ---
+
+## 🏢 Industry Relevance
+This project is highly applicable to *food supply chain management*, aligning with roles such as:
+- *Graduate Engineer Trainee – Supply Chain*
+- *Operations Analyst*
+- *Process Improvement Engineer*
 
 ## 🏢 Industry Relevance
 This project is highly applicable to *food supply chain management*, aligning with roles such as:
